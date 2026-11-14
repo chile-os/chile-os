@@ -21,8 +21,7 @@ Chile OS es un proyecto experimental de sistema operativo Linux. Su objetivo es 
 
 | Versión | Arquitectura | Archivo |
 |---|---|---|
-| Chile OS 32 bits | x86 | `ChileOS-32bit.iso` |
-| Chile OS 64 bits | x86_64 | `ChileOS-64bit.iso` |
+| Chile OS 32 bits | x86 | `ChileOS-32bit.iso` 
 
 **Descargas:** próximamente.
 
