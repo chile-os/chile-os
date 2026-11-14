@@ -47,9 +47,17 @@ Chile OS es una distribución Linux independiente basada en Debian, creada como 
 
 ## 💿 Descargar Chile OS
 
-Puedes encontrar las versiones disponibles en la sección de lanzamientos:
+Puedes descargar la ISO de Chile OS desde Google Drive:
 
-[⬇️ Descargar Chile OS](https://github.com/chile-os/chile-os/releases)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing">
+    **⬇️ DESCARGAR CHILE OS**
+  </a>
+</p>
+
+[Descargar Chile OS desde Google Drive](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing)
+
+
 
 ## 🚀 Instalación
 
