@@ -51,7 +51,7 @@ Puedes descargar la ISO de Chile OS desde Google Drive:
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing">
-    **⬇️ DESCARGAR CHILE OS**
+    **⬇️ DESCARGAR CHILE OS
   </a>
 </p>
 
