@@ -1,177 +1,218 @@
 # 🇨🇱 Chile OS
 
 <p align="center">
-  <strong>Un sistema operativo Linux creado en Chile</strong>
+  <strong>Un sistema operativo Linux con identidad chilena.</strong>
 </p>
 
 <p align="center">
-  🐧 Linux · 🇨🇱 Chile · 💻 Debian · 🌎 Código abierto
+  🐧 Basado en Debian · 🇨🇱 Creado en Chile · 💻 32 y 64 bits
 </p>
 
 ---
 
-## 📖 Sobre el proyecto
+## 📖 ¿Qué es Chile OS?
 
-**Chile OS** es un proyecto de sistema operativo basado en Linux, desarrollado con el objetivo de ofrecer una alternativa accesible y sencilla para utilizar un computador.
+**Chile OS** es un proyecto independiente de sistema operativo basado en Debian Linux, creado en Chile.
 
-Nace como un proyecto independiente inspirado en la comunidad Linux y en el deseo de crear una distribución con identidad chilena.
+Su objetivo es ofrecer una alternativa para computadores, acercar Linux a más personas y desarrollar un sistema operativo con identidad propia.
 
-Chile OS busca ofrecer una experiencia de escritorio fácil de utilizar, con posibilidades de personalización y desarrollo futuro.
+Chile OS nace de la pasión por la informática, Linux y el desarrollo de software.
 
-## 🎯 Objetivos
+## 🎯 Objetivos del proyecto
 
-- Crear una distribución Linux con identidad chilena.
-- Facilitar el acceso al mundo Linux.
-- Ofrecer una alternativa para computadores.
-- Promover el software libre y de código abierto.
-- Mejorar el sistema mediante futuras actualizaciones.
+- 🇨🇱 Crear un sistema operativo con identidad chilena.
+- 🐧 Ofrecer una alternativa basada en Linux.
+- 💻 Dar soporte a computadores de 32 y 64 bits.
+- 🌎 Acercar el software libre a más personas.
+- 🚀 Mejorar el sistema mediante futuras versiones.
+- 👨‍💻 Aprender, experimentar y desarrollar tecnología.
 
-## 🐧 Base del sistema
+## ⚙️ Información del sistema
 
 | Característica | Información |
 |---|---|
 | Nombre | Chile OS |
 | Tipo | Sistema operativo |
+| Base | Debian Linux |
 | Kernel | Linux |
-| Distribución base | Debian |
-| Formato de distribución | ISO |
-| Arquitectura de 64 bits | Disponible |
-| Arquitectura de 32 bits | Por confirmar |
+| Formato | ISO |
+| Arquitectura | 32 y 64 bits |
 | Idioma del proyecto | Español |
-| País de origen del proyecto | Chile |
+| País | Chile 🇨🇱 |
+| Distribución | Proyecto independiente |
 
-## 💻 Arquitecturas
+## 💻 Versiones disponibles
 
-Chile OS cuenta con una imagen ISO de 64 bits.
+Chile OS cuenta con dos imágenes ISO para diferentes arquitecturas.
 
-| Versión | Archivo |
-|---|---|
-| 64 bits (x86_64) | Archivo cuyo nombre termina en `boot` |
-| 32 bits (x86) | Disponibilidad por confirmar |
+| Versión | Arquitectura | Estado |
+|---|---|---|
+| Chile OS 32 bits | x86 | Disponible |
+| Chile OS 64 bits | x86_64 | Disponible |
 
-## ⚙️ Requisitos del sistema
+## 📥 Descargar Chile OS
 
-Los requisitos definitivos todavía no han sido verificados.
+¡Descarga Chile OS y prueba el proyecto!
 
-Como referencia inicial para probarlo:
+### 🇨🇱 Chile OS 32 bits
 
-| Componente | Recomendación |
-|---|---|
-| Procesador | Compatible con la arquitectura de la ISO |
-| RAM | 2 GB o más |
-| Almacenamiento | Espacio libre para instalar el sistema |
-| Virtualización | VirtualBox o equipo compatible |
+Diseñado para computadores compatibles con arquitecturas x86 de 32 bits.
 
-## 🚀 Instalación
+**[⬇️ DESCARGAR CHILE OS 32 BITS](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing)**
+
+### 🖥️ Chile OS 64 bits
+
+Diseñado para computadores compatibles con arquitecturas x86_64 de 64 bits.
+
+**[⬇️ DESCARGAR CHILE OS 64 BITS](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing)**
+
+> Importante: Los enlaces anteriores apuntan al mismo archivo de Google Drive por ahora. Debes sustituir uno por el enlace de la otra ISO para que las descargas sean independientes.
+
+## 🚀 Cómo instalar Chile OS
 
 ### Método 1: VirtualBox
 
-1. Descarga la ISO de Chile OS.
-2. Abre VirtualBox.
-3. Crea una máquina virtual nueva.
-4. Selecciona Linux como tipo de sistema.
-5. Selecciona Debian de 64 bits.
-6. Asigna memoria RAM.
+Puedes probar Chile OS sin modificar tu computador.
+
+1. Descarga la ISO correspondiente.
+2. Instala y abre VirtualBox.
+3. Crea una máquina virtual.
+4. Selecciona Linux y Debian como tipo de sistema.
+5. Elige la arquitectura correspondiente.
+6. Asigna memoria RAM y almacenamiento.
 7. Selecciona la ISO de Chile OS.
 8. Inicia la máquina virtual.
-9. Sigue el proceso de inicio o instalación que presente la imagen.
+9. Sigue las instrucciones que aparezcan en pantalla.
 
 ### Método 2: Computador físico
 
 1. Descarga la ISO.
-2. Prepara un medio USB de instalación.
-3. Inicia el computador desde ese medio.
-4. Sigue las instrucciones del sistema.
+2. Prepara un USB de instalación.
+3. Configura el arranque del computador desde USB.
+4. Inicia Chile OS.
+5. Sigue las instrucciones de instalación disponibles.
 
-**Importante:** Antes de instalarlo en un computador real, realiza una copia de seguridad de tus archivos.
+**Advertencia:** Antes de instalar un sistema operativo en un computador real, realiza una copia de seguridad de tus archivos.
 
 ## 👤 Usuarios de prueba
 
-Durante las pruebas en VirtualBox se comprobó el acceso al escritorio.
-
-Usuarios mencionados durante las pruebas:
+Durante las pruebas del proyecto en VirtualBox se utilizaron los siguientes nombres de usuario:
 
 - `alex`
 - `hellois`
 
-Las contraseñas y permisos de estas cuentas deben documentarse cuando estén confirmados.
+Se comprobó el acceso al escritorio durante las pruebas.
+
+Las contraseñas y permisos deben verificarse antes de publicarlos.
 
 ## 🧪 Estado del proyecto
 
-Chile OS se encuentra en una etapa de desarrollo y pruebas.
-
-| Área | Estado |
+| Característica | Estado |
 |---|---|
-| Imagen ISO | Disponible |
-| Versión de 64 bits | Disponible |
+| Proyecto Chile OS | En desarrollo |
+| Base Debian | Definida |
+| ISO de 32 bits | Disponible |
+| ISO de 64 bits | Disponible |
 | Pruebas en VirtualBox | Realizadas |
 | Acceso al escritorio | Comprobado |
-| Versión de 32 bits | Por confirmar |
 | Documentación | En desarrollo |
 | Actualizaciones | Por definir |
 
+## 🖥️ Requisitos del sistema
+
+Los requisitos definitivos todavía deben verificarse.
+
+Como referencia para comenzar las pruebas:
+
+| Componente | Recomendación |
+|---|---|
+| Procesador | Compatible con la arquitectura elegida |
+| RAM | 2 GB o más |
+| Almacenamiento | Espacio suficiente para instalar |
+| Virtualización | VirtualBox compatible |
+
 ## 🔧 Compatibilidad
 
-Chile OS está basado en Debian, por lo que utiliza tecnologías del ecosistema Linux.
+Chile OS está basado en Debian Linux.
 
-La compatibilidad exacta con programas, controladores y equipos debe comprobarse mediante pruebas.
-
-## 🛠️ Problemas conocidos
-
-Todavía no existe una lista completa de problemas verificados.
-
-Si encuentras algún error, puedes documentarlo en la sección de problemas del proyecto.
+La compatibilidad con programas, controladores y componentes de hardware depende de la versión y arquitectura utilizada.
 
 ## ❓ Preguntas frecuentes
 
-**¿Qué es Chile OS?**
-
-Es una distribución Linux independiente con identidad chilena.
-
-**¿Está basado en Windows?**
+**¿Chile OS está basado en Windows?**
 
 No. Está basado en Debian Linux.
 
-**¿Es gratuito?**
+**¿Es un sistema operativo chileno?**
 
-El proyecto busca distribuirse gratuitamente.
-
-**¿Se puede probar sin instalarlo?**
-
-Sí, puedes utilizar una máquina virtual como VirtualBox para realizar pruebas.
-
-**¿Tiene versión de 64 bits?**
-
-Sí, existe una ISO de 64 bits.
+Es un proyecto independiente creado en Chile.
 
 **¿Tiene versión de 32 bits?**
 
-Su disponibilidad todavía está pendiente de confirmación.
+Sí, cuenta con una ISO de 32 bits.
 
-## 🇨🇱 Filosofía del proyecto
+**¿Tiene versión de 64 bits?**
 
-Chile OS representa una iniciativa independiente para experimentar, aprender y desarrollar tecnología utilizando Linux.
+Sí, cuenta con una ISO de 64 bits.
 
-El objetivo es seguir mejorando el sistema y construir una comunidad alrededor del proyecto.
+**¿Puedo probarlo sin instalarlo?**
+
+Sí, puedes utilizar VirtualBox para probarlo.
+
+**¿Es gratuito?**
+
+El proyecto busca ofrecerse gratuitamente.
+
+**¿Puedo ayudar con el proyecto?**
+
+¡Claro! Puedes compartir el proyecto, reportar errores y contribuir a su documentación.
+
+## 🐛 Reportar problemas
+
+Si encuentras errores durante la instalación o el uso de Chile OS, puedes reportarlos en la sección **Issues** del repositorio de GitHub.
+
+Incluye:
+
+- Arquitectura utilizada.
+- Versión de Chile OS.
+- Descripción del problema.
+- Captura de pantalla si es posible.
+
+## 🔮 Futuro de Chile OS
+
+Algunas áreas que podrían desarrollarse en futuras versiones:
+
+- Mejoras en el escritorio.
+- Mayor compatibilidad de hardware.
+- Nuevas aplicaciones.
+- Mejoras de rendimiento.
+- Actualizaciones del sistema.
+- Documentación más completa.
+- Comunidad de usuarios de Chile OS.
 
 ## 📜 Licencia
 
-La licencia definitiva del proyecto está pendiente de confirmación.
+La licencia del proyecto está pendiente de confirmación.
 
-Chile OS está basado en Debian, pero eso no significa que todos los componentes propios del proyecto tengan automáticamente la misma licencia.
+Debian y los componentes de software incluidos mantienen sus respectivas licencias originales.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor del proyecto
 
 **Proyecto:** Chile OS  
 **Desarrollador:** Creador independiente  
-**País:** Chile 🇨🇱
+**País:** Chile 🇨🇱  
+**Base tecnológica:** Debian Linux
 
 ---
 
 <p align="center">
-  🇨🇱 <strong>Chile OS — Linux con identidad chilena.</strong>
+  <strong>🇨🇱 CHILE OS</strong>
 </p>
 
 <p align="center">
-  Gracias por apoyar este proyecto.
+  Linux con identidad chilena. 
+</p>
+
+<p align="center">
+  🐧 ¡Gracias por probar y apoyar Chile OS!
 </p>
