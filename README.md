@@ -1,120 +1,98 @@
 # 🇨🇱 Chile OS
 
-### Linux con identidad chilena. Hecho en Chile para el mundo.
+<p align="center">
+  <img src="desktop.png" alt="Escritorio de Chile OS" width="850">
+</p>
 
-🐧 Basado en Debian · 🇨🇱 Proyecto independiente · 💻 32 y 64 bits (por verificar en cada ISO)
+<h2 align="center">Un sistema operativo Linux hecho en Chile 🇨🇱</h2>
+
+<p align="center">
+  Un proyecto independiente creado con pasión por Linux y la tecnología.
+</p>
 
 ---
 
+## 🖥️ Captura del escritorio
+
+¡Bienvenido al escritorio de Chile OS!
+
+![Escritorio de Chile OS](desktop.png)
+
 ## 📖 ¿Qué es Chile OS?
 
-Chile OS es un proyecto independiente de sistema operativo basado en Debian Linux, creado en Chile.
+Chile OS es una distribución Linux independiente basada en Debian, creada como un proyecto personal para explorar el mundo de los sistemas operativos y ofrecer una experiencia de escritorio propia.
 
-Su objetivo es ofrecer una alternativa para computadores, acercar Linux a más personas y desarrollar un sistema operativo con identidad propia.
-## 🖥️ Capturas de Chile OS
+## ✨ Características
 
-### Escritorio principal
+- 🇨🇱 Proyecto creado en Chile.
+- 🐧 Basado en Debian.
+- 🖥️ Entorno de escritorio gráfico.
+- 📁 Administrador de archivos.
+- 💻 Terminal Linux.
+- 🔧 Proyecto en desarrollo.
 
-![Escritorio Chile OS](screenshots/desktop.png)
+## 📸 Capturas del sistema
 
-### VLC Media Player
+### Escritorio
 
-![VLC en Chile OS](screenshots/vlc.png)
+![Desktop](desktop.png)
 
-## 🎯 Objetivos
+### Terminal
 
-- 🇨🇱 Crear un sistema operativo con identidad chilena.
-- 🐧 Ofrecer una alternativa basada en Linux.
-- 💻 Trabajar en compatibilidad con diferentes computadores.
-- 🌎 Acercar Linux a más personas.
-- 🚀 Mejorar el sistema mediante futuras versiones.
+<!-- Cuando tengas la captura, súbela y agrega aquí su imagen. -->
 
-## ⚙️ Información del sistema
+### Administrador de archivos
+
+<!-- Cuando tengas la captura, súbela y agrega aquí su imagen. -->
+
+## 💿 Descargar Chile OS
+
+Puedes encontrar las versiones disponibles en la sección de lanzamientos:
+
+[⬇️ Descargar Chile OS](https://github.com/chile-os/chile-os/releases)
+
+## 🚀 Instalación
+
+1. Descarga la imagen ISO desde Releases.
+2. Utiliza VirtualBox para probar el sistema o un programa compatible para crear un USB de instalación.
+3. Inicia el sistema desde la ISO.
+4. Sigue las instrucciones del instalador, si están disponibles.
+
+**Recomendación:** Prueba Chile OS en una máquina virtual antes de instalarlo en un equipo real.
+
+## 🛠️ Información técnica
 
 | Característica | Información |
 |---|---|
 | Nombre | Chile OS |
-| Tipo | Sistema operativo |
-| Base | Debian Linux |
-| Kernel | Linux |
+| Base | Debian |
+| Arquitectura | Según la versión ISO |
 | Formato | ISO |
-| País | Chile 🇨🇱 |
-| Distribución | Proyecto independiente |
 | Estado | En desarrollo |
+| País | Chile 🇨🇱 |
 
-## 📥 Descargas
+## 🎯 Objetivos del proyecto
 
-Las descargas oficiales se publicarán cuando cada imagen ISO esté verificada.
+- Mejorar la experiencia del escritorio.
+- Optimizar el sistema.
+- Añadir herramientas y aplicaciones.
+- Mejorar la compatibilidad.
+- Crear una comunidad alrededor de Chile OS.
 
-[Consultar versiones](../../releases)
+## 🤝 Contribuciones
 
-## 🚀 Instalación
+¡Las sugerencias y contribuciones son bienvenidas!
 
-### VirtualBox
+Puedes abrir un Issue en este repositorio para compartir ideas, informar errores o proponer mejoras.
 
-1. Descarga una ISO verificada.
-2. Abre VirtualBox.
-3. Crea una máquina virtual.
-4. Selecciona Debian como tipo de sistema.
-5. Configura los recursos de la máquina.
-6. Selecciona la ISO.
-7. Inicia la máquina virtual.
-8. Sigue las instrucciones de instalación.
+## ❤️ Créditos
 
-### Computador físico
+Chile OS es un proyecto independiente basado en Debian.
 
-Antes de instalar, realiza una copia de seguridad de tus archivos y comprueba la compatibilidad del equipo.
-
-## 🧪 Estado del proyecto
-
-| Área | Estado |
-|---|---|
-| Proyecto | En desarrollo |
-| Base Debian | Definida |
-| Escritorio | Probado |
-| VLC Media Player | Instalado |
-| Terminal | Pendiente de documentar |
-| Explorador de archivos | Pendiente de documentar |
-| Documentación | En desarrollo |
-| Descargas oficiales | Pendientes de verificar |
-
-## 🤝 Cómo colaborar
-
-Puedes ayudar a Chile OS mediante:
-
-- Reportes de errores.
-- Sugerencias.
-- Pruebas del sistema.
-- Ideas para futuras versiones.
-- Mejoras de documentación.
-
-## 🐛 Reportar problemas
-
-Utiliza la sección Issues de GitHub.
-
-Incluye la arquitectura, versión, descripción del problema y capturas si es posible.
-
-## 🔮 Futuro de Chile OS
-
-- Mejoras en el escritorio.
-- Nuevas aplicaciones.
-- Compatibilidad de hardware.
-- Mejoras de rendimiento.
-- Actualizaciones.
-- Comunidad internacional.
-
-## 📜 Licencias
-
-La licencia del proyecto está pendiente de confirmación.
-
-Debian y los componentes incluidos mantienen sus respectivas licencias originales.
+Gracias a la comunidad de Debian y Linux por hacer posible este proyecto.
 
 ---
 
-## 🇨🇱 CHILE OS
-
-**Linux con identidad chilena.**
-
-Hecho con pasión por la informática y el software libre.
-
-🐧 ¡Gracias por apoyar Chile OS!
+<p align="center">
+  🇨🇱 <strong>Chile OS — Linux hecho en Chile</strong> 🇨🇱
+</p>
