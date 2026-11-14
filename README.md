@@ -1,68 +1,67 @@
 # 🇨🇱 Chile OS
 
-### Un sistema operativo Linux creado en Chile
+### Tecnología con identidad chilena.
 
-¡Bienvenido a Chile OS! Un proyecto independiente que busca crear un sistema operativo basado en Linux, con identidad chilena y pensado para ofrecer una experiencia sencilla y accesible.
+¡Bienvenido a Chile OS! Un sistema operativo basado en Linux, creado como proyecto independiente con identidad chilena.
 
-## 🌎 Sobre el proyecto
+## 🌎 Sobre Chile OS
 
-Chile OS es un proyecto experimental de sistema operativo Linux. Su objetivo es desarrollar una distribución propia, fácil de utilizar y compatible con diferentes equipos.
+Chile OS busca ofrecer una alternativa Linux sencilla, accesible y compatible con diferentes computadores.
 
 ## ✨ Características
 
-- 🇨🇱 Identidad visual inspirada en Chile.
+- 🇨🇱 Identidad visual chilena.
 - 🐧 Basado en Linux.
-- 👤 Sistema de inicio de sesión y cuentas de usuario.
 - 🖥️ Entorno de escritorio.
-- 💻 Versiones para arquitecturas de 32 y 64 bits.
-- 🧪 Compatible con pruebas en máquinas virtuales como VirtualBox.
+- 👤 Sistema de usuarios e inicio de sesión.
+- 💻 Dos arquitecturas disponibles.
+- 🧪 Compatible con pruebas en máquinas virtuales.
 
-## 💿 Versiones disponibles
+## 💿 DESCARGAR CHILE OS
 
-| Versión | Arquitectura | Archivo |
-|---|---|---|
-| Chile OS 32 bits | x86 | `ChileOS-32bit.iso` 
+### 🇨🇱 Chile OS 32 bits (x86)
 
-**Descargas:** próximamente.
+**Disponible en GitHub.**
+
+[⬇️ DESCARGAR CHILE OS 32 BITS](https://github.com/chile-os/chile-os/releases/tag/linux)
+
+### 🇨🇱 Chile OS 64 bits (x86_64)
+
+**Disponible en Google Drive.**
+
+[⬇️ DESCARGAR CHILE OS 64 BITS](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing)
+
+## 🖥️ Capturas de pantalla
+
+Próximamente publicaremos imágenes del escritorio, inicio de sesión y aplicaciones de Chile OS.
 
 ## 🚀 Instalación
 
-1. Descarga la ISO correspondiente a tu equipo.
-2. Crea una máquina virtual o un medio de instalación.
+1. Descarga la versión compatible con tu equipo.
+2. Crea un medio de instalación o una máquina virtual.
 3. Inicia el equipo desde la ISO.
-4. Sigue las instrucciones del instalador.
-5. Inicia sesión y disfruta de Chile OS.
-
-## 🧪 Usuarios de prueba
-
-Durante las pruebas se utilizaron las cuentas:
-
-- Usuario: `alex`
-- Usuario: `hellois`
-
-Estas son cuentas de prueba y no deben utilizarse como credenciales públicas de instalación.
+4. Sigue las instrucciones de instalación.
+5. Crea tu cuenta e inicia sesión.
 
 ## 📋 Estado del proyecto
 
-Chile OS se encuentra en desarrollo y pruebas.
-
-- [x] Primera prueba en VirtualBox.
-- [x] Acceso al escritorio.
-- [ ] Publicación de ISO de 32 bits.
-- [ ] Publicación de ISO de 64 bits.
-- [ ] Pruebas en equipos físicos.
-- [ ] Primera versión pública estable.
+- [x] Desarrollo inicial.
+- [x] Pruebas en VirtualBox.
+- [x] Publicación de versión de 32 bits.
+- [x] Publicación de enlace para versión de 64 bits.
+- [ ] Más pruebas en equipos físicos.
+- [ ] Mejoras del sistema.
 
 ## 🤝 Contribuciones
 
-Este es un proyecto independiente. Las sugerencias, ideas y colaboraciones son bienvenidas.
+Chile OS es un proyecto independiente. Las sugerencias e ideas son bienvenidas.
 
 ## 📜 Licencia
 
-La licencia del proyecto se definirá según sus componentes y las licencias del software utilizado.
+La licencia se definirá considerando los componentes utilizados en el sistema.
 
 ---
 
-**Chile OS — Tecnología con identidad chilena. 🇨🇱**
+**🇨🇱 Chile OS — Tecnología con identidad chilena.**
 
-*Creado como un proyecto independiente de software.*
+*Un proyecto Linux independiente creado en Chile.*
