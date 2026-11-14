@@ -11,18 +11,15 @@
 Chile OS es un proyecto independiente de sistema operativo basado en Debian Linux, creado en Chile.
 
 Su objetivo es ofrecer una alternativa para computadores, acercar Linux a más personas y desarrollar un sistema operativo con identidad propia.
-
-## 🖥️ Capturas de pantalla
-
-Estas imágenes muestran el escritorio y algunas aplicaciones de Chile OS.
+## 🖥️ Capturas de Chile OS
 
 ### Escritorio principal
 
-![Escritorio de Chile OS](screenshots/desktop.png)
+![Escritorio Chile OS](screenshots/desktop.png)
 
 ### VLC Media Player
 
-![VLC Media Player en Chile OS](screenshots/vlc.png)
+![VLC en Chile OS](screenshots/vlc.png)
 
 ## 🎯 Objetivos
 
