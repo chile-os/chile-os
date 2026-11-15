@@ -36,7 +36,9 @@ Chile OS es una distribución Linux independiente basada en Debian, creada como 
 ### Escritorio
 
 ![Desktop](desktop.png)
+### archivos
 ![files](files.png)
+### terminal
 ![terminal](terminal.png)
 ## 💿 Descargar Chile OS
 
