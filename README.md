@@ -1,131 +1,168 @@
-# 🇨🇱 Chile OS 2.0
+# 🇨🇱 Chile OS
 
-<div align="center">
+### An independent Linux distribution created in Chile
 
-# CHILE OS
+Chile OS is a Debian-based Linux distribution with the XFCE desktop environment. It is an independent project focused on creating a simple, accessible and customizable Linux experience.
 
-### A Linux distribution built in Chile 🇨🇱
-
-**Built in Chile. Powered by Linux.**
-
-[Download Chile OS](https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing) · [GitHub Repository](https://github.com/chile-os/chile-os) · [Releases](https://github.com/chile-os/chile-os/releases)
-
-![Version](https://img.shields.io/badge/version-2.0-blue)
-![Base](https://img.shields.io/badge/base-Debian-red)
-![Desktop](https://img.shields.io/badge/desktop-XFCE-orange)
-
-</div>
+**Made in Chile 🇨🇱**
 
 ---
 
-## 📸 Screenshots
+## 📥 Downloads
 
-### 🖥️ Desktop Environment
+Download the version of Chile OS you want to try:
+
+| Version | Status | Download |
+|---|---|---|
+| **Chile OS 2.0** | Latest release | [Download Chile OS 2.0](https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing) |
+| **Chile OS 1.0** | Previous release | [Download Chile OS 1.0](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing) |
+
+*ISO files are hosted on Google Drive.*
+
+---
+
+## 🖥️ Screenshots
+
+Here is a look at Chile OS:
+
+### Desktop
 
 ![Chile OS Desktop](desktop.png)
 
-### 📁 File Manager
+### File Manager
 
-![Chile OS Files](files.png)
+![Chile OS File Manager](files.png)
 
-### 💻 Terminal
+### Terminal
 
 ![Chile OS Terminal](terminal.png)
 
 ---
-
-## 🚀 About Chile OS
-
-Chile OS is an independent Linux distribution created in Chile and based on Debian.
-
-It uses the XFCE desktop environment to provide a simple and accessible desktop experience.
-
-The project aims to create an independent Linux distribution with its own identity.
 
 ## ✨ Features
 
 - 🇨🇱 Created in Chile.
 - 🐧 Based on Debian.
 - 🖥️ XFCE desktop environment.
-- 🎨 Custom desktop experience.
-- 💻 Linux-based operating system.
-- 🌎 Independent open-source project.
+- 🎨 Customized desktop experience.
+- 📁 Graphical file manager.
+- 💻 Linux terminal.
+- 🚀 Independent development.
+- 🔧 Continuous improvements between releases.
 
-## 📥 Download
-
-### Chile OS 2.0 — Latest Version
-
-<badge color="success">Latest release: v2.0</badge>
-
-[⬇️ DOWNLOAD CHILE OS 2.0](https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing)
-
-## 🛠️ Installation
-
-1. Download the Chile OS ISO.
-2. Open VirtualBox or another compatible virtualization program.
-3. Create a new virtual machine.
-4. Select the downloaded ISO.
-5. Start the virtual machine.
-6. Follow the installation instructions.
-
-**Tip:** You can test Chile OS in a virtual machine before installing it on physical hardware.
+---
 
 ## ⚙️ System Information
 
-| Component | Details |
+| Detail | Information |
 |---|---|
-| Operating System | Chile OS |
-| Version | 2.0 |
-| Base | Debian |
-| Desktop Environment | XFCE |
-| Release Tag | v2.0 |
-| Architecture | To be verified |
+| Project | Chile OS |
+| Latest version | 2.0 |
+| Previous version | 1.0 |
+| Base distribution | Debian |
+| Desktop environment | XFCE |
+| Format | ISO |
+| Architecture | Check the individual ISO |
+
+---
+
+## 📦 Versions
+
+### Chile OS 2.0
+
+The latest release of Chile OS.
+
+- New development stage.
+- Updated project experience.
+- Continued improvements to the system.
+
+[Download Chile OS 2.0](https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing)
+
+### Chile OS 1.0
+
+The first release of Chile OS.
+
+- Initial version of the project.
+- Debian-based system.
+- XFCE desktop environment.
+
+[Download Chile OS 1.0](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing)
+
+---
+
+## 💿 Installation
+
+You can test Chile OS using a virtual machine or compatible hardware.
+
+### VirtualBox
+
+1. Download the ISO file.
+2. Open VirtualBox.
+3. Create a new virtual machine.
+4. Select Linux and the appropriate Debian version.
+5. Assign memory and storage.
+6. Select the Chile OS ISO as the startup disk.
+7. Start the virtual machine.
+
+**Important:** Test the ISO in a virtual machine before installing it on a physical computer. Back up important files before making changes to a real computer.
+
+---
 
 ## 🗺️ Roadmap
 
-- [ ] Improve the desktop experience.
-- [ ] Develop Chile Store.
-- [ ] Improve installation.
-- [ ] Add more customization options.
-- [ ] Improve hardware compatibility.
-- [ ] Expand documentation.
+Ideas and planned improvements for future versions:
+
+- [ ] Chile Store.
+- [ ] Easier software installation.
+- [ ] Improved desktop experience.
+- [ ] More customization options.
+- [ ] Better hardware compatibility.
+- [ ] More documentation.
+- [ ] Community feedback and improvements.
+
+---
 
 ## 🤝 Contributing
 
-Contributions, suggestions, and bug reports are welcome!
+Chile OS is an independent project, and feedback is welcome!
 
 You can help by:
 
-- Testing Chile OS.
+- Testing the ISO.
 - Reporting bugs.
 - Suggesting new features.
-- Sharing the project.
+- Sharing your experience.
+- Helping other people discover Chile OS.
+
+If you find a problem, open an issue in this repository.
+
+---
+
+## 📢 Community
+
+Have you tried Chile OS?
+
+Share your experience and help the project improve!
+
+**GitHub repository:**  
+https://github.com/chile-os/chile-os
+
+---
+
+## 📜 License
+
+Check the repository's license file for the terms under which Chile OS is distributed.
+
+---
 
 ## ⚠️ Disclaimer
 
 Chile OS is an independent project based on Debian.
 
-It is not an official Debian product and is not affiliated with or endorsed by the Debian Project.
-
-Always back up important data before installing an operating system.
-
-## 📜 License
-
-See the repository's LICENSE file for licensing information.
-
-## ❤️ Support Chile OS
-
-If you like this project:
-
-- ⭐ Star the repository.
-- 📢 Share Chile OS.
-- 🐛 Report bugs.
-- 💡 Suggest improvements.
+It is not an official Debian project and is not affiliated with or endorsed by the Debian Project.
 
 ---
 
-<div align="center">
+# 🇨🇱 Chile OS
 
-# 🇨🇱 CHILE OS 2.0
-
-**Built in Chile. Powered by Linux
+**Created in Chile. Built with Linux. Made for everyone.**
