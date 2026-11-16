@@ -1,129 +1,131 @@
-# 🇨🇱 Chile OS
+# 🇨🇱 Chile OS 2.0
 
-### Una distribución Linux con identidad chilena.
+<div align="center">
 
-<p align="center">
-  <strong>Un proyecto independiente creado en Chile 🇨🇱</strong>
-  <br>
-  Basado en Debian · Linux · Tecnología
-</p>
+# CHILE OS
 
-<p align="center">
-  <a href="https://github.com/chile-os/chile-os/stargazers">
-    <img src="https://img.shields.io/github/stars/chile-os/chile-os?style=for-the-badge&color=yellow" alt="Stars">
-  </a>
-  <a href="https://github.com/chile-os/chile-os">
-    <img src="https://img.shields.io/badge/Plataforma-Linux-orange?style=for-the-badge" alt="Linux">
-  </a>
-  <img src="https://img.shields.io/badge/Base-Debian-A81D33?style=for-the-badge" alt="Debian">
-  <img src="https://img.shields.io/badge/Hecho_en-Chile-blue?style=for-the-badge" alt="Chile">
-</p>
+### A Linux distribution built in Chile 🇨🇱
+
+**Built in Chile. Powered by Linux.**
+
+[Download Chile OS](https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing) · [GitHub Repository](https://github.com/chile-os/chile-os) · [Releases](https://github.com/chile-os/chile-os/releases)
+
+![Version](https://img.shields.io/badge/version-2.0-blue)
+![Base](https://img.shields.io/badge/base-Debian-red)
+![Desktop](https://img.shields.io/badge/desktop-XFCE-orange)
+
+</div>
 
 ---
 
-## 🖥️ ¿Qué es Chile OS?
+## 📸 Screenshots
 
-**Chile OS** es una distribución Linux independiente basada en Debian, creada con el objetivo de desarrollar una experiencia de escritorio con identidad chilena.
-
-Este proyecto nace de la curiosidad por Linux, la informática y la creación de sistemas operativos.
-
-Queremos demostrar que desde Chile también se pueden crear proyectos tecnológicos propios.
-
-## 📸 Capturas de pantalla
-
-### 🖥️ Escritorio
-
-La interfaz principal de Chile OS.
+### 🖥️ Desktop Environment
 
 ![Chile OS Desktop](desktop.png)
 
-### 💻 Terminal
-
-La terminal de comandos del sistema.
-
-![Chile OS Terminal](terminal.png)
-
-### 📁 Archivos
-
-El administrador de archivos de Chile OS.
+### 📁 File Manager
 
 ![Chile OS Files](files.png)
 
+### 💻 Terminal
+
+![Chile OS Terminal](terminal.png)
+
 ---
 
-## ✨ Características
+## 🚀 About Chile OS
 
-- 🇨🇱 Identidad visual chilena.
-- 🐧 Basado en Debian.
-- 🖥️ Entorno de escritorio Linux.
-- 💻 Terminal para trabajar con comandos.
-- 📁 Administrador de archivos.
-- 💿 Distribución mediante imagen ISO.
-- 🧪 Compatible con pruebas en máquinas virtuales como VirtualBox.
+Chile OS is an independent Linux distribution created in Chile and based on Debian.
 
-## 📥 Descargar Chile OS
+It uses the XFCE desktop environment to provide a simple and accessible desktop experience.
 
-<details>
-<summary><strong>🇨🇱 DESCARGAR CHILE OS</strong></summary>
+The project aims to create an independent Linux distribution with its own identity.
 
-La imagen ISO está alojada en Google Drive.
+## ✨ Features
 
-### 👉 [DESCARGAR CHILE OS (ISO)](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing)
+- 🇨🇱 Created in Chile.
+- 🐧 Based on Debian.
+- 🖥️ XFCE desktop environment.
+- 🎨 Custom desktop experience.
+- 💻 Linux-based operating system.
+- 🌎 Independent open-source project.
 
-</details>
+## 📥 Download
 
-## 🚀 Cómo probar Chile OS
+### Chile OS 2.0 — Latest Version
 
-Puedes probar Chile OS utilizando VirtualBox.
+<badge color="success">Latest release: v2.0</badge>
 
-1. Descarga la imagen ISO.
-2. Abre VirtualBox.
-3. Crea una máquina virtual compatible.
-4. Selecciona la ISO de Chile OS.
-5. Inicia la máquina virtual.
-6. ¡Explora el sistema!
+[⬇️ DOWNLOAD CHILE OS 2.0](https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing)
 
-**Recomendación:** prueba el sistema en una máquina virtual antes de utilizarlo en un equipo físico.
+## 🛠️ Installation
 
-## 🛠️ Tecnologías
+1. Download the Chile OS ISO.
+2. Open VirtualBox or another compatible virtualization program.
+3. Create a new virtual machine.
+4. Select the downloaded ISO.
+5. Start the virtual machine.
+6. Follow the installation instructions.
 
-| Tecnología | Uso |
+**Tip:** You can test Chile OS in a virtual machine before installing it on physical hardware.
+
+## ⚙️ System Information
+
+| Component | Details |
 |---|---|
-| Debian | Sistema base |
-| Linux | Kernel y entorno del sistema |
-| VirtualBox | Pruebas virtuales |
-| GitHub | Código y documentación |
-| Google Drive | Distribución de la ISO |
+| Operating System | Chile OS |
+| Version | 2.0 |
+| Base | Debian |
+| Desktop Environment | XFCE |
+| Release Tag | v2.0 |
+| Architecture | To be verified |
 
-## 🤝 Colabora con Chile OS
+## 🗺️ Roadmap
 
-¿Te interesa el proyecto?
+- [ ] Improve the desktop experience.
+- [ ] Develop Chile Store.
+- [ ] Improve installation.
+- [ ] Add more customization options.
+- [ ] Improve hardware compatibility.
+- [ ] Expand documentation.
 
-Puedes ayudar de muchas maneras:
+## 🤝 Contributing
 
-- ⭐ Dar una estrella al repositorio.
-- 🐛 Informar errores.
-- 💡 Proponer ideas.
-- 🧪 Probar el sistema.
-- 📢 Recomendar Chile OS a otras personas.
+Contributions, suggestions, and bug reports are welcome!
 
-## 🎯 Nuestro objetivo
+You can help by:
 
-Queremos hacer crecer Chile OS, mejorar el sistema y conseguir que más personas conozcan este proyecto.
+- Testing Chile OS.
+- Reporting bugs.
+- Suggesting new features.
+- Sharing the project.
 
-Nuestro primer gran objetivo es alcanzar **100 estrellas en GitHub**.
+## ⚠️ Disclaimer
 
-## 🔗 Enlaces oficiales
+Chile OS is an independent project based on Debian.
 
-- **GitHub:** https://github.com/chile-os/chile-os
-- **Descargar ISO:** https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing
+It is not an official Debian product and is not affiliated with or endorsed by the Debian Project.
+
+Always back up important data before installing an operating system.
+
+## 📜 License
+
+See the repository's LICENSE file for licensing information.
+
+## ❤️ Support Chile OS
+
+If you like this project:
+
+- ⭐ Star the repository.
+- 📢 Share Chile OS.
+- 🐛 Report bugs.
+- 💡 Suggest improvements.
 
 ---
 
-<p align="center">
-  🇨🇱 <strong>CHILE OS</strong>
-  <br>
-  <em>Tecnología con identidad chilena.</em>
-  <br><br>
-  ⭐ ¡Dale una estrella y apoya el proyecto!
-</p>
+<div align="center">
+
+# 🇨🇱 CHILE OS 2.0
+
+**Built in Chile. Powered by Linux
