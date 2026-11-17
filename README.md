@@ -92,6 +92,22 @@ Your support will help us:
 - 🔧 Add new features.
 - 📦 Improve future releases.
 
+### ☕ Donate through Ko-fi
+
+<div align="center">
+
+[![Ko-fi](https://storage.ko-fi.com/cdn/kofi5.png?v=3)](https://ko-fi.com/chile_os)
+
+### ❤️ [DONATE TO CHILE OS](https://ko-fi.com/chile_os)
+
+**Every contribution helps keep this project growing!**
+
+</div>
+
+Donations are completely voluntary. Chile OS will remain free.
+
+---
+
 ## 🛠️ FUTURE DEVELOPMENT
 
 Some ideas for future releases:
@@ -124,6 +140,7 @@ Each component retains its respective license. Please check the applicable licen
 ## 🔗 OFFICIAL LINKS
 
 - 🐙 GitHub: https://github.com/chile-os/chile-os
+- ☕ Ko-fi: https://ko-fi.com/chile_os
 - 📥 Chile OS 1.0: https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing
 - 📥 Chile OS 2.0: https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing
 
