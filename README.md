@@ -7,13 +7,14 @@
 
 **Una distribución Linux basada en Debian, creada para ofrecer una experiencia sencilla, ligera y personalizable.**
 
-[![Debian](https://img.shields.io/badge/Base-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-[![XFCE](https://img.shields.io/badge/Desktop-XFCE-2284B6?style=for-the-badge)](https://xfce.org/)
-[![Status](https://img.shields.io/badge/Estado-En_desarrollo-brightgreen?style=for-the-badge)]()
-[![Free](https://img.shields.io/badge/Precio-Gratuito-blue?style=for-the-badge)]()
+![Debian](https://img.shields.io/badge/Base-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![XFCE](https://img.shields.io/badge/Desktop-XFCE-2284B6?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-En_desarrollo-brightgreen?style=for-the-badge)
+![Gratuito](https://img.shields.io/badge/Precio-Gratuito-blue?style=for-the-badge)
 
 [⬇️ DESCARGAR 2.0](https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing)
-[❤️ APOYAR EL PROYECTO](https://ko-fi.com/chile_os)
+
+[❤️ APOYAR EN KO-FI](https://ko-fi.com/chile_os)
 
 </div>
 
@@ -37,6 +38,8 @@ Chile OS es un proyecto independiente que busca seguir creciendo con nuevas vers
 - 🆓 Gratuito.
 - 🔧 En desarrollo constante.
 
+---
+
 ## 📥 DESCARGAR CHILE OS
 
 ¡Prueba Chile OS!
@@ -59,11 +62,21 @@ Nueva versión del proyecto, con mejoras y cambios.
 
 ---
 
-## 📸 Capturas de pantalla
+## 📸 CAPTURAS DE PANTALLA
 
-Próximamente añadiremos más capturas de Chile OS.
+### 🖥️ Escritorio de Chile OS
 
-<!-- Puedes agregar aquí tus capturas reales -->
+![Chile OS Desktop](desktop.png)
+
+### 💻 Terminal
+
+![Chile OS Terminal](terminal.png)
+
+### 📁 Administrador de archivos
+
+![Chile OS Files](files.png)
+
+---
 
 ## ❤️ APOYA CHILE OS
 
@@ -93,9 +106,11 @@ Tu apoyo permitirá:
 
 Las donaciones son voluntarias. Chile OS seguirá siendo gratuito.
 
-## 🛠️ Desarrollo futuro
+---
 
-Algunas de nuestras ideas para próximas versiones:
+## 🛠️ DESARROLLO FUTURO
+
+Algunas ideas para próximas versiones:
 
 - Mejoras en la interfaz.
 - Nuevas herramientas.
@@ -104,26 +119,34 @@ Algunas de nuestras ideas para próximas versiones:
 - Mejoras de rendimiento.
 - Desarrollo de Chile Store.
 
-## 📋 Requisitos
+---
+
+## 📋 REQUISITOS
 
 Los requisitos pueden variar según la versión.
 
 Consulta la información de cada lanzamiento antes de instalar.
 
-## ⚖️ Licencias
+---
+
+## ⚖️ LICENCIAS
 
 Chile OS utiliza componentes de software libre y de código abierto.
 
 Cada componente conserva sus respectivas licencias. Consulta sus condiciones antes de redistribuirlo.
 
-## 🔗 Enlaces oficiales
+---
+
+## 🔗 ENLACES OFICIALES
 
 - 🐙 GitHub: https://github.com/chile-os/chile-os
 - ☕ Ko-fi: https://ko-fi.com/chile_os
 - 📥 Chile OS 1.0: https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing
 - 📥 Chile OS 2.0: https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing
 
-## 🙏 Agradecimientos
+---
+
+## 🙏 AGRADECIMIENTOS
 
 Gracias a todas las personas que descargan, prueban, comparten y apoyan Chile OS.
 
@@ -142,4 +165,5 @@ Cada opinión y colaboración ayuda a mejorar el proyecto.
 ❤️ ¡Gracias por apoyar Chile OS!
 
 </div>
+
 
