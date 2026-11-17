@@ -1,168 +1,120 @@
-# 🇨🇱 Chile OS
-
-### An independent Linux distribution created in Chile
-
-Chile OS is a Debian-based Linux distribution with the XFCE desktop environment. It is an independent project focused on creating a simple, accessible and customizable Linux experience.
-
-**Made in Chile 🇨🇱**
-
----
-
-## 📥 Downloads
-
-Download the version of Chile OS you want to try:
-
-| Version | Status | Download |
-|---|---|---|
-| **Chile OS 2.0** | Latest release | [Download Chile OS 2.0](https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing) |
-| **Chile OS 1.0** | Previous release | [Download Chile OS 1.0](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing) |
-
-*ISO files are hosted on Google Drive.*
-
----
-
-## 🖥️ Screenshots
-
-Here is a look at Chile OS:
-
-### Desktop
-
-![Chile OS Desktop](desktop.png)
-
-### File Manager
-
-![Chile OS File Manager](files.png)
-
-### Terminal
-
-![Chile OS Terminal](terminal.png)
-
----
-
-## ✨ Features
-
-- 🇨🇱 Created in Chile.
-- 🐧 Based on Debian.
-- 🖥️ XFCE desktop environment.
-- 🎨 Customized desktop experience.
-- 📁 Graphical file manager.
-- 💻 Linux terminal.
-- 🚀 Independent development.
-- 🔧 Continuous improvements between releases.
-
----
-
-## ⚙️ System Information
-
-| Detail | Information |
-|---|---|
-| Project | Chile OS |
-| Latest version | 2.0 |
-| Previous version | 1.0 |
-| Base distribution | Debian |
-| Desktop environment | XFCE |
-| Format | ISO |
-| Architecture | Check the individual ISO |
-
----
-
-## 📦 Versions
-
-### Chile OS 2.0
-
-The latest release of Chile OS.
-
-- New development stage.
-- Updated project experience.
-- Continued improvements to the system.
-
-[Download Chile OS 2.0](https://drive.google.com/file/d/1GcjQSKjqAYi_yYJ4eN9NVT4Av6t0klOl/view?usp=sharing)
-
-### Chile OS 1.0
-
-The first release of Chile OS.
-
-- Initial version of the project.
-- Debian-based system.
-- XFCE desktop environment.
-
-[Download Chile OS 1.0](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing)
-
----
-
-## 💿 Installation
-
-You can test Chile OS using a virtual machine or compatible hardware.
-
-### VirtualBox
-
-1. Download the ISO file.
-2. Open VirtualBox.
-3. Create a new virtual machine.
-4. Select Linux and the appropriate Debian version.
-5. Assign memory and storage.
-6. Select the Chile OS ISO as the startup disk.
-7. Start the virtual machine.
-
-**Important:** Test the ISO in a virtual machine before installing it on a physical computer. Back up important files before making changes to a real computer.
-
----
-
-## 🗺️ Roadmap
-
-Ideas and planned improvements for future versions:
-
-- [ ] Chile Store.
-- [ ] Easier software installation.
-- [ ] Improved desktop experience.
-- [ ] More customization options.
-- [ ] Better hardware compatibility.
-- [ ] More documentation.
-- [ ] Community feedback and improvements.
-
----
-
-## 🤝 Contributing
-
-Chile OS is an independent project, and feedback is welcome!
-
-You can help by:
-
-- Testing the ISO.
-- Reporting bugs.
-- Suggesting new features.
-- Sharing your experience.
-- Helping other people discover Chile OS.
-
-If you find a problem, open an issue in this repository.
-
----
-
-## 📢 Community
-
-Have you tried Chile OS?
-
-Share your experience and help the project improve!
-
-**GitHub repository:**  
-https://github.com/chile-os/chile-os
-
----
-
-## 📜 License
-
-Check the repository's license file for the terms under which Chile OS is distributed.
-
----
-
-## ⚠️ Disclaimer
-
-Chile OS is an independent project based on Debian.
-
-It is not an official Debian project and is not affiliated with or endorsed by the Debian Project.
-
----
 
 # 🇨🇱 Chile OS
 
-**Created in Chile. Built with Linux. Made for everyone.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Chile_OS-Linux-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Basado_en-Debian-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Escritorio-XFCE-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Estado-En_desarrollo-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  **Un sistema operativo Linux creado en Chile 🇨🇱**
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/chile_os">
+    <img src="https://img.shields.io/badge/Apoya_el_proyecto-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 ¿Qué es Chile OS?
+
+Chile OS es una distribución Linux basada en Debian, creada con el objetivo de ofrecer una experiencia sencilla, accesible y personalizable.
+
+El proyecto busca ofrecer un sistema operativo gratuito, con un escritorio agradable y herramientas útiles para los usuarios.
+
+## ✨ Características
+
+- 🇨🇱 Proyecto creado en Chile.
+- 🐧 Basado en Debian.
+- 🖥️ Entorno de escritorio XFCE.
+- ⚡ Diseñado para ser ligero.
+- 🎨 Interfaz personalizada.
+- 🆓 Gratuito.
+- 🔧 En constante desarrollo.
+
+## 📸 Capturas de pantalla
+
+Próximamente se publicarán más imágenes del sistema.
+
+<!-- Agrega aquí tus capturas reales -->
+
+## 📥 Descargar Chile OS
+
+Puedes descargar Chile OS desde nuestro enlace:
+
+**Google Drive:**
+
+[Descargar Chile OS](https://drive.google.com/file/d/1g0ntbJqmx5qxyToApAhjKGmK_SAw38yq/view?usp=sharing)
+
+Comprueba los requisitos y la arquitectura de la ISO antes de instalar.
+
+## ❤️ Apoya Chile OS
+
+Chile OS es un proyecto gratuito e independiente.
+
+Si te gusta el proyecto y quieres ayudar a que siga creciendo, puedes realizar una donación voluntaria.
+
+Tu apoyo ayudará a:
+
+- 🚀 Desarrollar nuevas versiones.
+- 💻 Mejorar el sistema operativo.
+- 🎨 Crear nuevas personalizaciones.
+- 🔧 Añadir nuevas funciones.
+- 📦 Mejorar la experiencia de usuario.
+
+### ☕ Dona mediante Ko-fi
+
+<p align="center">
+  <a href="https://ko-fi.com/chile_os">
+    <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" width="220" alt="Apoya Chile OS en Ko-fi"/>
+  </a>
+</p>
+
+<p align="center">
+  **[❤️ DONAR A CHILE OS](https://ko-fi.com/chile_os)**
+</p>
+
+¡Cada aporte ayuda a mantener vivo este proyecto! 🇨🇱
+
+Las donaciones son completamente voluntarias.
+
+## 🛠️ Desarrollo
+
+Chile OS continúa evolucionando.
+
+Algunas áreas que queremos mejorar:
+
+- Personalización del escritorio.
+- Herramientas propias.
+- Compatibilidad.
+- Rendimiento.
+- Experiencia de instalación.
+
+## 📋 Requisitos
+
+Los requisitos pueden variar según la versión.
+
+Consulta las notas de lanzamiento antes de instalar.
+
+## ⚖️ Licencia
+
+Chile OS utiliza componentes de software libre y de código abierto.
+
+Consulta las licencias de los componentes originales y la documentación de cada versión para conocer sus condiciones de redistribución.
+
+## 📬 Contacto y comunidad
+
+- 🐙 GitHub: https://github.com/chile-os/chile-os
+- ☕ Ko-fi: https://ko-fi.com/chile_os
+- 📥 Descargas: Google Drive
+
+## 🙏 Agradecimientos
+
+Gracias a todas las personas que prueban, utilizan, comparten y apoyan Chile OS.
+
+**Chile OS: tecnología hecha en Chile. 🇨🇱**
+
